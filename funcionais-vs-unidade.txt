@@ -1,0 +1,2 @@
+* Testes funcionais partem do ponto de vista do usuário(externo) enquanto os testes de unidade focam no ponto de vista do desenvolvedor(interno)
+* Testes de unidades sao feitos para garantir que uma unidade expecifica do codigo esteja conforme esperado, testes funcionais garantem que toda a funcionalidade esteja de acordo com o planejado.
