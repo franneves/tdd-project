@@ -1,0 +1,4 @@
+Na figura  mostrada, temos uma visão um pouco mais alto nível, onde temos um processo de TDD para os testes funcionais e este ciclo envolve um outro ciclo de TDD
+memnor que utiliza testes de unidade.  Ou Seja escrevemos um teste funcional e vemos que ele falha. Neste caso entramos no miniciclo de TDD, no qual escrevemos um ou mais
+testes de unidade e passamos pelo ciclo de testes de unidade/código até que os testes de unidade passem, encerrando o miniciclo do TDD e retornamos ao fluxo maior dos 
+Testes funcionais a fim de verificar se ele avança um pouco mais ou se será necessário um novo miniciclo de TDD envolvendo novamente escrita dos codigos de unidade e funcionalidade. 
